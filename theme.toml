@@ -1,0 +1,12 @@
+name = "Death Rattle"
+license = "GPLv3"
+licenselink = "https://github.com/gergovari/deathrattle/blob/master/LICENSE"
+description = "A Hugo theme based on the vyberd structure."
+homepage = "https://varigergo.hu/"
+tags = [ "resistance", "rebellion" ]
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "Gergő Vári"
+  homepage = "https://varigergo.hu/"
