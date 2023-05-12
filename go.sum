@@ -10,6 +10,8 @@ github.com/vyberd/base v0.0.0-20230508142947-3df1ad9e09d4 h1:p9w4xSYXtr0fTxiPTsr
 github.com/vyberd/base v0.0.0-20230508142947-3df1ad9e09d4/go.mod h1:2vt/cIsWLjkf8lg5DuHFvPfOWghPfMoVDgSUKcGLaMc=
 github.com/vyberd/base v0.0.0-20230511174359-4dedf95c9ed4 h1:loonxritn0ILfrYDW/nQBQBvBbJxvskzSQn8ZWKTolE=
 github.com/vyberd/base v0.0.0-20230511174359-4dedf95c9ed4/go.mod h1:2vt/cIsWLjkf8lg5DuHFvPfOWghPfMoVDgSUKcGLaMc=
+github.com/vyberd/base v0.0.0-20230512111332-785c9416fd07 h1:LJqnBhqFVZB5fih/7Xe4JEB0sZC+u9JsT0P4xs6jN0w=
+github.com/vyberd/base v0.0.0-20230512111332-785c9416fd07/go.mod h1:2vt/cIsWLjkf8lg5DuHFvPfOWghPfMoVDgSUKcGLaMc=
 github.com/vyberd/input v0.0.0-20230508164442-d7c0022d08c2 h1:rhbzrYSLPz8VTCW89PG2FytDHM6t6ee09xOy8gc2ohM=
 github.com/vyberd/input v0.0.0-20230508164442-d7c0022d08c2/go.mod h1:W5XuaQoudaMhezkfHsaNdzGKkxrpw7SsOJvQYUTW7DU=
 github.com/vyberd/input v0.0.0-20230511063855-883db6f2b441 h1:6fxfMkoevbBkCzSONlUMa6DB+vPqqzaKOyu5K1K7I2c=
