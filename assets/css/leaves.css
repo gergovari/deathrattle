@@ -98,16 +98,16 @@
 	left: 100%;
 }
 
-#leaves i:nth-of-type(n) { -webkit-animation: falling2 7s 0s infinite; z-index: 2; }
-#leaves i:nth-of-type(2n+1) { -webkit-animation: falling2 6s 0s infinite; z-index: 2; }
-#leaves i:nth-of-type(3n+2) { -webkit-animation: falling3 8s 0s infinite; z-index: -1; }
-#leaves i:nth-of-type(4n-1) { -webkit-animation: falling3 10s 0s infinite; z-index: -1; }
-#leaves i:nth-of-type(5n+1) { -webkit-animation: falling3 9s 0s infinite; z-index: -1; }
+#leaves i:nth-of-type(n) { -webkit-animation: falling2 7s 0s infinite; }
+#leaves i:nth-of-type(2n+1) { -webkit-animation: falling2 6s 0s infinite;}
+#leaves i:nth-of-type(3n+2) { -webkit-animation: falling3 8s 0s infinite; }
+#leaves i:nth-of-type(4n-1) { -webkit-animation: falling3 10s 0s infinite; }
+#leaves i:nth-of-type(5n+1) { -webkit-animation: falling3 9s 0s infinite; }
 
 
 #leaves i:nth-of-type(n)    { height:calc(.5rem + .5vw); width:calc(.5rem + .5vw); z-index: -1; }
 
-#leaves i:nth-of-type(2n+1)    { height:calc(.75rem + .5vw); width: calc(.75rem + .5vw); z-index: 0; }
+#leaves i:nth-of-type(2n+1)    { height:calc(.75rem + .5vw); width: calc(.75rem + .5vw); z-index: -1; }
 
 #leaves i:nth-of-type(3n+2)  { height:calc(1rem + .5vw); width: calc(1rem + .5vw); z-index: 2; }
 
