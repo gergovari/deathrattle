@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/vyberd/animation v0.0.0-20230508132901-479aeb059716 // indirect
-	github.com/vyberd/base v0.0.0-20230514053632-6a9321bf7545 // indirect
+	github.com/vyberd/base v0.0.0-20230515093827-f2b0d300950c // indirect
 	github.com/vyberd/input v0.0.0-20230513064707-7de2959a1117 // indirect
 	github.com/vyberd/navbar v0.0.0-20230509072641-ee2dda386a72 // indirect
 	github.com/vyberd/popup v0.0.0-20230513063917-d989287df810 // indirect
