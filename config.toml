@@ -9,3 +9,5 @@ unsafe = true
 		path = "github.com/vyberd/navbar"
 	[[module.imports]]
 		path = "github.com/vyberd/input"
+	[[module.imports]]
+		path = "github.com/vyberd/popup"
